@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/HW2.dir/BasicRules.cpp.o CMakeFiles/HW2.dir/Board.cpp.o CMakeFiles/HW2.dir/ConsoleDisplayer.cpp.o CMakeFiles/HW2.dir/ConsolePlayer.cpp.o CMakeFiles/HW2.dir/Game.cpp.o CMakeFiles/HW2.dir/IPlayer.cpp.o CMakeFiles/HW2.dir/Point.cpp.o CMakeFiles/HW2.dir/Reversy.cpp.o  -o HW2 
